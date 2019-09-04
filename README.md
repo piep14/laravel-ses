@@ -1,3 +1,5 @@
+# Cette version est un fork du package oliveready7/laravel-ses avec en plus la prise en charge de Carbon 2 
+
 # laravel-ses
 A Laravel 5.5+ Package that allows you to get simple sending statistics for emails you send through SES, including deliveries, opens, bounces, complaints and link tracking.
 
