@@ -40,6 +40,9 @@
         "orchestra/testbench": "~3.5",
         "phpunit/phpunit": "~7.0"
     },
+    "replace": {
+        "oliveready7/laravel-ses": "^0.1.0"
+    },
     "autoload": {
         "psr-4": {
             "oliveready7\\LaravelSes\\": "src/"
@@ -61,5 +64,5 @@
         }
     },
     "prefer-stable": true,
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
